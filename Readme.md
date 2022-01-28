@@ -13,7 +13,7 @@
 # How to: Use MethodToCommandBehavior
 
 
-This example demonstrates how to use the MethodToCommandBehavior.
+This example demonstrates how to call a method when a control invokes a command. Use [MethodToCommandBehavior](https://docs.devexpress.com/WPF/DevExpress.Mvvm.UI.MethodToCommandBehavior) available in [DevExpress MVVM Framework](https://www.devexpress.com/products/net/controls/wpf/mvvm-wpf.xml) for this task.
 
 <br/>
 
